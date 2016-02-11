@@ -1,0 +1,373 @@
+{
+  "text" : "亚当",
+  "children" : [
+  {"text" : "该隐", "children" : [
+      {"text" : "以诺", "children" : [
+       {"text" : "以拿", "children" : [
+           {"text" : "米户雅利", "children" : [
+               {"text" : "玛土撒利", "children" : [
+                   {"text" : "拉麦", "children" : [
+                       {"text" : "雅八"},
+                       {"text" : "犹八"},
+                       {"text" : "土八该隐"},
+                       {"text" : "拿玛"}
+                   ]}
+               ]}
+           ]}
+       ]}
+      ]}
+  ]},
+  {"text" : "亚伯"},
+  {"text" : "塞特", "children" : [
+      {"text" : "以挪士", "children" : [
+          {"text" : "该南", "children" : [
+              {"text" : "玛勒列", "children" : [
+                  {"text" : "雅列", "children" : [
+                      {"text" : "以诺", "children" : [
+                          {"text" : "玛土撒拉", "children" : [
+                              {"text" : "拉麦", "children" : [
+                                  {"text" : "挪亚", "children" : [
+                                      {"text" : "闪", "children" : [
+                                          {"text" : "以拦"},
+                                          {"text" : "亚述"},
+                                          {"text" : "亚法撒", "children" : [
+                                              {"text" : "沙拉", "children" : [
+                                                  {"text" : "希伯", "children" : [
+                                                      {"text" : "法勒", "children" : [
+                                                          {"text" : "拉吴", "children" : [
+                                                              {"text" : "西鹿", "children" : [
+                                                                  {"text" : "拿鹤", "children" : [
+                                                                      {"text" : "他拉", "children" : [
+                                                                          {"text" : "亚伯拉罕", "children" : [
+                                                                              {"text" : "以实玛利", "children" : [
+                                                                                  {"text" : "尼拜约"},
+                                                                                  {"text" : "基达"},
+                                                                                  {"text" : "亚德别"},
+                                                                                  {"text" : "米比衫"},
+                                                                                  {"text" : "米施玛"},
+                                                                                  {"text" : "度玛"},
+                                                                                  {"text" : "玛撒"},
+                                                                                  {"text" : "哈大"},
+                                                                                  {"text" : "提玛"},
+                                                                                  {"text" : "伊突"},
+                                                                                  {"text" : "拿非施"},
+                                                                                  {"text" : "基底玛"}
+                                                                              ]},
+                                                                              {"text" : "以撒", "children" : [
+                                                                                  {"text" : "以扫", "children" : [
+                                                                                      {"text" : "以利法", "children" : [
+                                                                                          {"text" : "提幔"},
+                                                                                          {"text" : "阿抹"},
+                                                                                          {"text" : "洗玻"},
+                                                                                          {"text" : "迦坦"},
+                                                                                          {"text" : "基纳斯"},
+                                                                                          {"text" : "亚玛力"}
+                                                                                      ]},
+                                                                                      {"text" : "流珥", "children" : [
+                                                                                          {"text" : "拿哈"},
+                                                                                          {"text" : "谢拉"},
+                                                                                          {"text" : "沙玛"},
+                                                                                          {"text" : "米撒"}
+                                                                                      ]},
+                                                                                      {"text" : "耶乌施"},
+                                                                                      {"text" : "雅兰"},
+                                                                                      {"text" : "可拉"}
+                                                                                  ]},
+                                                                                  {"text" : "雅各", "children" : [
+                                                                                      {"text" : "吕便", "children" : [
+                                                                                          {"text" : "哈诺"},
+                                                                                          {"text" : "法路"},
+                                                                                          {"text" : "希斯伦"},
+                                                                                          {"text" : "迦米"}
+                                                                                      ]},
+                                                                                      {"text" : "西缅", "children" : [
+                                                                                          {"text" : "耶母利"},
+                                                                                          {"text" : "雅悯"},
+                                                                                          {"text" : "阿辖"},
+                                                                                          {"text" : "雅斤"},
+                                                                                          {"text" : "琐辖"},
+                                                                                          {"text" : "扫罗"}
+                                                                                      ]},
+                                                                                      {"text" : "利未", "children" : [
+                                                                                          {"text" : "革顺", "children" : [
+                                                                                              {"text" : "立尼"},
+                                                                                              {"text" : "示每"}
+                                                                                          ]},
+                                                                                          {"text" : "哥辖", "children" : [
+                                                                                              {"text" : "暗兰", "children" : [
+                                                                                                  {"text" : "亚伦", "children" : [
+                                                                                                      {"text" : "拿答"},
+                                                                                                      {"text" : "亚比户"},
+                                                                                                      {"text" : "以利亚撒", "children" : [
+                                                                                                          {"text" : "非尼哈"}
+                                                                                                      ]},
+                                                                                                      {"text" : "以他玛"}
+                                                                                                  ]},
+                                                                                                  {"text" : "摩西"}
+                                                                                              ]},
+                                                                                              {"text" : "以斯哈", "children" : [
+                                                                                                  {"text" : "可拉", "children" : [
+                                                                                                      {"text" : "亚惜"},
+                                                                                                      {"text" : "以利加拿"},
+                                                                                                      {"text" : "亚比亚撒"}
+                                                                                                  ]},
+                                                                                                  {"text" : "尼斐"},
+                                                                                                  {"text" : "细基利"}
+                                                                                              ]},
+                                                                                              {"text" : "希伯伦"},
+                                                                                              {"text" : "乌薛", "children" : [
+                                                                                                  {"text" : "米沙利"},
+                                                                                                  {"text" : "以利撒反"},
+                                                                                                  {"text" : "西提利"}
+                                                                                              ]}
+                                                                                          ]},
+                                                                                          {"text" : "米拉利"}
+                                                                                      ]},
+                                                                                      {"text" : "犹大", "children" : [
+                                                                                          {"text" : "珥"},
+                                                                                          {"text" : "俄南"},
+                                                                                          {"text" : "示拉"},
+                                                                                          {"text" : "法勒斯", "children" : [
+                                                                                              {"text" : "希斯伦", "children" : [
+                                                                                                  {"text" : "亚兰", "children" : [
+                                                                                                      {"text" : "亚米拿达", "children" : [
+                                                                                                          {"text" : "拿顺", "children" : [
+                                                                                                              {"text" : "撒门", "children" : [
+                                                                                                                  {"text" : "波阿斯", "children" : [
+                                                                                                                      {"text" : "俄备得", "children" : [
+                                                                                                                          {"text" : "耶西", "children" : [
+                                                                                                                              {"text" : "大卫", "children" : [
+                                                                                                                                  {"text" : "所罗门", "children" : [
+                                                                                                                                      {"text" : "罗波安", "children" : [
+                                                                                                                                          {"text" : "亚比雅", "children" : [
+                                                                                                                                              {"text" : "亚撒", "children" : [
+                                                                                                                                                  {"text" : "约沙法", "children" : [
+                                                                                                                                                      {"text" : "约兰", "children" : [
+                                                                                                                                                          {"text" : "乌西亚", "children" : [
+                                                                                                                                                              {"text" : "约坦", "children" : [
+                                                                                                                                                                  {"text" : "亚哈斯", "children" : [
+                                                                                                                                                                      {"text" : "希西家", "children" : [
+                                                                                                                                                                          {"text" : "玛拿西", "children" : [
+                                                                                                                                                                              {"text" : "亚们", "children" : [
+                                                                                                                                                                                  {"text" : "约西亚", "children" : [
+                                                                                                                                                                                      {"text" : "耶哥尼雅", "children" : [
+                                                                                                                                                                                          {"text" : "撒拉铁", "children" : [
+                                                                                                                                                                                              {"text" : "所罗巴伯", "children" : [
+                                                                                                                                                                                                  {"text" : "亚比玉", "children" : [
+                                                                                                                                                                                                      {"text" : "以利亚敬", "children" : [
+                                                                                                                                                                                                          {"text" : "亚所", "children" : [
+                                                                                                                                                                                                              {"text" : "撒督", "children" : [
+                                                                                                                                                                                                                  {"text" : "亚金", "children" : [
+                                                                                                                                                                                                                      {"text" : "以律", "children" : [
+                                                                                                                                                                                                                          {"text" : "以利亚撒", "children" : [
+                                                                                                                                                                                                                              {"text" : "马但", "children" : [
+                                                                                                                                                                                                                                  {"text" : "雅各", "children" : [
+                                                                                                                                                                                                                                      {"text" : "约瑟", "children" : [
+                                                                                                                                                                                                                                          {"text" : "耶稣"}
+                                                                                                                                                                                                                                      ]}
+                                                                                                                                                                                                                                  ]}
+                                                                                                                                                                                                                              ]}
+                                                                                                                                                                                                                          ]}
+                                                                                                                                                                                                                      ]}
+                                                                                                                                                                                                                  ]}
+                                                                                                                                                                                                              ]}
+                                                                                                                                                                                                          ]}
+                                                                                                                                                                                                      ]}
+                                                                                                                                                                                                  ]}
+                                                                                                                                                                                              ]}
+                                                                                                                                                                                          ]}
+                                                                                                                                                                                      ]}
+                                                                                                                                                                                  ]}
+                                                                                                                                                                              ]}
+                                                                                                                                                                          ]}
+                                                                                                                                                                      ]}
+                                                                                                                                                                  ]}
+                                                                                                                                                              ]}
+                                                                                                                                                          ]}
+                                                                                                                                                      ]}
+                                                                                                                                                  ]}
+                                                                                                                                              ]}
+                                                                                                                                          ]}
+                                                                                                                                      ]}
+                                                                                                                                  ]}
+                                                                                                                              ]}
+                                                                                                                          ]}
+                                                                                                                      ]}
+                                                                                                                  ]}
+                                                                                                              ]}
+                                                                                                          ]}
+                                                                                                      ]}
+                                                                                                  ]}
+                                                                                              ]},
+                                                                                              {"text" : "哈姆勒"}
+                                                                                          ]},
+                                                                                          {"text" : "谢拉"}
+                                                                                      ]},
+                                                                                      {"text" : "以萨迦", "children" : [
+                                                                                          {"text" : "陀拉"},
+                                                                                          {"text" : "普瓦"},
+                                                                                          {"text" : "约伯"},
+                                                                                          {"text" : "伸岑"}
+                                                                                      ]},
+                                                                                      {"text" : "西布伦", "children" : [
+                                                                                          {"text" : "西烈"},
+                                                                                          {"text" : "以伦"},
+                                                                                          {"text" : "雅利"}
+                                                                                      ]},
+                                                                                      {"text" : "迦得", "children" : [
+                                                                                          {"text" : "洗菲芸"},
+                                                                                          {"text" : "哈基"},
+                                                                                          {"text" : "书尼"},
+                                                                                          {"text" : "以斯本"},
+                                                                                          {"text" : "以利"},
+                                                                                          {"text" : "亚罗底"},
+                                                                                          {"text" : "亚列利"}
+                                                                                      ]},
+                                                                                      {"text" : "亚设", "children" : [
+                                                                                          {"text" : "音拿"},
+                                                                                          {"text" : "亦施瓦"},
+                                                                                          {"text" : "亦施韦"},
+                                                                                          {"text" : "比利亚", "children" : [
+                                                                                              {"text" : "希别"},
+                                                                                              {"text" : "玛结"}
+                                                                                          ]},
+                                                                                          {"text" : "西拉"}
+                                                                                      ]},
+                                                                                      {"text" : "约瑟", "children" : [
+                                                                                          {"text" : "玛拿西"},
+                                                                                          {"text" : "以法莲", "children" : [
+
+                                                                                          ]}
+                                                                                      ]},
+                                                                                      {"text" : "便雅悯", "children" : [
+                                                                                          {"text" : "比拉"},
+                                                                                          {"text" : "比结"},
+                                                                                          {"text" : "亚实别"},
+                                                                                          {"text" : "基拉"},
+                                                                                          {"text" : "乃幔"},
+                                                                                          {"text" : "以希"},
+                                                                                          {"text" : "罗实"},
+                                                                                          {"text" : "母平"},
+                                                                                          {"text" : "户平"},
+                                                                                          {"text" : "亚勒"}
+                                                                                      ]},
+                                                                                      {"text" : "但", "children" : [
+                                                                                          {"text" : "户伸"}
+                                                                                      ]},
+                                                                                      {"text" : "拿弗他利", "children" : [
+                                                                                          {"text" : "雅薛"},
+                                                                                          {"text" : "洁尼"},
+                                                                                          {"text" : "耶色"},
+                                                                                          {"text" : "示冷"}
+                                                                                      ]},
+                                                                                      {"text" : "底拿"}
+                                                                                  ]}
+                                                                              ]}
+                                                                          ]},
+                                                                          {"text" : "拿鹤"},
+                                                                          {"text" : "哈兰", "children" : [
+                                                                              {"text" : "罗得", "children" : [
+                                                                                  {"text" : "摩押"},
+                                                                                  {"text" : "便亚米"}
+                                                                              ]},
+                                                                              {"text" : "密迦"},
+                                                                              {"text" : "亦迦"}
+                                                                          ]}
+                                                                      ]}
+                                                                  ]}
+                                                              ]}
+                                                          ]}
+                                                      ]},
+                                                      {"text" : "约坍", "children" : [
+                                                          {"text" : "亚摩答"},
+                                                          {"text" : "沙列"},
+                                                          {"text" : "哈萨玛非"},
+                                                          {"text" : "耶拉"},
+                                                          {"text" : "哈多兰"},
+                                                          {"text" : "乌萨"},
+                                                          {"text" : "德拉"},
+                                                          {"text" : "俄巴路"},
+                                                          {"text" : "亚比玛利"},
+                                                          {"text" : "示巴"},
+                                                          {"text" : "阿斐"},
+                                                          {"text" : "哈腓拉"},
+                                                          {"text" : "约巴"}
+                                                      ]}
+                                                  ]}
+                                              ]}
+                                          ]},
+                                          {"text" : "路德"},
+                                          {"text" : "亚兰", "children" : [
+                                              {"text" : "乌斯"},
+                                              {"text" : "户勒"},
+                                              {"text" : "基帖"},
+                                              {"text" : "玛施"}
+                                          ]}
+                                      ]},
+                                      {"text" : "含", "children" : [
+                                          {"text" : "古实", "children" : [
+                                              {"text" : "西巴"},
+                                              {"text" : "哈腓拉"},
+                                              {"text" : "撒弗他"},
+                                              {"text" : "拉玛", "children" : [
+                                                  {"text" : "示巴"},
+                                                  {"text" : "底但"}
+                                              ]},
+                                              {"text" : "撒弗提迦"},
+                                              {"text" : "宁录"}
+                                          ]},
+                                          {"text" : "麦西", "children" : [
+                                              {"text" : "路低"},
+                                              {"text" : "亚拿米"},
+                                              {"text" : "利哈比"},
+                                              {"text" : "拿弗土希"},
+                                              {"text" : "帕斯鲁细"},
+                                              {"text" : "迦斯路希"},
+                                              {"text" : "迦斐托", "children" : [
+                                                  {"text" : "非利士"}
+                                              ]}
+                                          ]},
+                                          {"text" : "弗"},
+                                          {"text" : "迦南", "children" : [
+                                              {"text" : "西顿"},
+                                              {"text" : "赫"},
+                                              {"text" : "耶布斯"},
+                                              {"text" : "亚摩利"},
+                                              {"text" : "革迦撒"},
+                                              {"text" : "希未"},
+                                              {"text" : "亚基"},
+                                              {"text" : "西尼"},
+                                              {"text" : "亚瓦底"},
+                                              {"text" : "洗玛利"},
+                                              {"text" : "哈马"}
+                                          ]}
+                                      ]},
+                                      {"text" : "雅弗", "children" : [
+                                          {"text" : "歌篾", "children" : [
+                                              {"text" : "亚实基拿"},
+                                              {"text" : "利法"},
+                                              {"text" : "陀迦玛"}
+                                          ]},
+                                          {"text" : "玛各"},
+                                          {"text" : "玛代"},
+                                          {"text" : "雅完", "children" : [
+                                              {"text" : "以利沙"},
+                                              {"text" : "他施"},
+                                              {"text" : "基提"},
+                                              {"text" : "多单"}
+                                          ]},
+                                          {"text" : "土巴"},
+                                          {"text" : "米设"},
+                                          {"text" : "提拉"}
+                                      ]}
+                                  ]}
+                              ]}
+                          ]}
+                      ]}
+                  ]}
+              ]}
+          ]}
+      ]}
+  ]}
+  ]
+}
