@@ -1,4 +1,4 @@
 # bible
-Peaple in the Holy Bible in Chinese
+Family tree of the Bible (Chinese version)
 
-Family tree of people in the Bible using D3.
+Use D3 tree layout to render the family tree of the Bible from Adam.
