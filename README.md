@@ -1,4 +1,6 @@
-# bible
-Family tree of the Bible (Chinese version)
+Family tree of the Bible 
+===
 
-View the HTML in a browser.
+[![Language](https://img.shields.io/badge/Language-Chinese-blue.svg)]()
+
+View the [HTML](topdown.html) in a browser.
